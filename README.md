@@ -29,7 +29,6 @@
 
 ✔ Pronouns: ***He/Him***<br>
 ✔ I’m currently Developing **KitchenLib** A PlateUp! Library **@KitchenMods**<br>
-✔ I’m a 7 year-long roller skater, whilst managing the venue<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br>
  
 
